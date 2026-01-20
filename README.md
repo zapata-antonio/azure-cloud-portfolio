@@ -39,6 +39,7 @@ Cada laboratorio está documentado con:
 | Identidad | [Lab 03 – App Registration Hardening](https://github.com/zapata-antonio/Azure-Lab-03-AppRegistrations-Hardening) | Bloqueo de Shadow IT |
 | Identidad | Lab 04 – B2B | Invitados externos |
 | Identidad | Lab 05 – Conditional Access | Políticas de riesgo |
+| Identidad | [Lab 10 – Enterprise Applications (SSO)](https://github.com/zapata-antonio/Azure-Lab-10-EnterpriseApps-SSO)  | |
 | Infraestructura | Lab 11 – VNet & Subnets | Diseño de red |
 | Infraestructura | Lab 12 – NSG | Firewall |
 | Infraestructura | Lab 13 – Bastion | Acceso seguro |
