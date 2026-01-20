@@ -37,7 +37,7 @@ Cada laboratorio está documentado con:
 | Identidad | [Lab 01 – Break Glass](https://github.com/zapata-antonio/Azure-Lab-01-BreakGlass) | Cuenta de emergencia |
 | Identidad | [Lab 02 – SSPR](https://github.com/zapata-antonio/Azure-Lab-02-SSPR) | Autoservicio de contraseñas |
 | Identidad | [Lab 03 – App Registration Hardening](https://github.com/zapata-antonio/Azure-Lab-03-AppRegistrations-Hardening) | Bloqueo de Shadow IT |
-| Identidad | Lab 04 – B2B | Invitados externos |
+| Identidad | [Lab 04 – B2B](https://github.com/zapata-antonio/Azure-Lab-04-B2B-InvitadosO) | Invitados externos |
 | Identidad | Lab 05 – Conditional Access | Políticas de riesgo |
 | Identidad | [Lab 10 – Enterprise Applications (SSO)](https://github.com/zapata-antonio/Azure-Lab-10-EnterpriseApps-SSO)  | Enterprise Applications |
 | Infraestructura | Lab 11 – VNet & Subnets | Diseño de red |
