@@ -44,19 +44,19 @@ Cada laboratorio está documentado con:
 | Identidad | [Lab 08 – RBAC (Billing Reader)](https://github.com/zapata-antonio/Azure-Lab-08-RBAC-BillingReader) | Segregación de funciones (finanzas) |
 | Identidad | [Lab 09 – Administrative Units](https://github.com/zapata-antonio/Azure-Lab-09-AdministrativeUnits) | Delegación regional sin visibilidad global |
 | Identidad | [Lab 10 – Enterprise Applications (SSO)](https://github.com/zapata-antonio/Azure-Lab-10-EnterpriseApps-SSO)  | Enterprise Applications |
-| Infraestructura | Lab 11 – VNet & Subnets | Diseño de red |
-| Infraestructura | Lab 12 – NSG | Firewall |
-| Infraestructura | Lab 13 – Bastion | Acceso seguro |
-| Infraestructura | Lab 14 – Peering | Redes entre regiones |
-| Infraestructura | Lab 15 – Private Endpoints | Storage privado |
-| Infraestructura | Lab 16 – VM & Disks | Servidores |
-| Infraestructura | Lab 17 – Backup | Continuidad de negocio |
-| Operaciones | Lab 20 – Budgets | Control de costes |
-| Operaciones | Lab 21 – Monitor | Alertas |
-| Gobierno | Lab 22 – Policy | Cumplimiento |
-| Seguridad | Lab 24 – Key Vault | Secretos |
-| Datos | Lab 25 – Power BI RLS | Gobierno de datos |
-| Troubleshooting | Lab 26–35 | Incidencias reales |
+| Infraestructura | [Lab 11 – VNet & Subnets](https://github.com/zapata-antonio/Azure-Lab-11-VNet-Subnets) | Diseño de red |
+| Infraestructura | [Lab 12 – NSG](https://github.com/zapata-antonio/Azure-Lab-12-NSG) | Control de tráfico (seguridad de red) |
+| Infraestructura | [Lab 13 – Bastion](https://github.com/zapata-antonio/Azure-Lab-13-Bastion) | Acceso seguro sin IP pública |
+| Infraestructura | [Lab 14 – Peering](https://github.com/zapata-antonio/Azure-Lab-14-VNet-Peering) | Redes entre regiones / VNets |
+| Infraestructura | [Lab 15 – Private Endpoints](https://github.com/zapata-antonio/Azure-Lab-15-Private-Endpoints) | Acceso privado a servicios (Storage, etc.) |
+| Infraestructura | [Lab 16 – VM & Disks](https://github.com/zapata-antonio/Azure-Lab-16-VM-Disks) | Compute + discos + rendimiento |
+| Infraestructura | [Lab 17 – Backup](https://github.com/zapata-antonio/Azure-Lab-17-Backup) | Continuidad de negocio |
+| Operaciones | [Lab 20 – Budgets](https://github.com/zapata-antonio/Azure-Lab-20-Budgets) | Control de costes |
+| Operaciones | [Lab 21 – Monitor](https://github.com/zapata-antonio/Azure-Lab-21-Monitor-Alerts) | Métricas, logs y alertas |
+| Gobierno | [Lab 22 – Policy](https://github.com/zapata-antonio/Azure-Lab-22-Azure-Policy) | Cumplimiento y guardrails |
+| Seguridad | [Lab 24 – Key Vault](https://github.com/zapata-antonio/Azure-Lab-24-KeyVault) | Gestión de secretos y claves |
+| Datos | [Lab 25 – Power BI RLS](https://github.com/zapata-antonio/Azure-Lab-25-PowerBI-RLS) | Gobierno de datos (Row-Level Security) |
+| Troubleshooting | [Lab 26–35 – Incidencias reales](https://github.com/zapata-antonio/Azure-Lab-26-35-Troubleshooting) | Casos prácticos de diagnóstico |
 
 *(Los enlaces se irán activando a medida que se completen los labs)*
 
