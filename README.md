@@ -41,7 +41,7 @@ Cada laboratorio está documentado con:
 | Identidad | [Lab 05 – Conditional Access](https://github.com/zapata-antonio/Azure-Lab-05-CA-GeoBlock) | Políticas de riesgo |   
 | Identidad | [Lab 06 – PIM (JIT)](https://github.com/zapata-antonio/Azure-Lab-06-PIM-JIT) | Privilegios Just-In-Time (Eligible/Activate) |
 | Identidad | [Lab 07 – Access Reviews](https://github.com/zapata-antonio/Azure-Lab-07-AccessReviews) | Revisión periódica + auto-remediación |
-| Identidad | [Lab 08 – RBAC (Billing Reader)](https://github.com/zapata-antonio/Azure-Lab-08-RBAC-BillingReader) | Segregación de funciones (finanzas) |
+| Identidad | [Lab 08 — RBAC: Key Vault (Secrets User)](https://github.com/zapata-antonio/Azure-Lab-08-RBAC-BillingReader) | Acceso limitado a secretos (read-only) |
 | Identidad | [Lab 09 – Administrative Units](https://github.com/zapata-antonio/Azure-Lab-09-AdministrativeUnits) | Delegación regional sin visibilidad global |
 | Identidad | [Lab 10 – Enterprise Applications (SSO)](https://github.com/zapata-antonio/Azure-Lab-10-EnterpriseApps-SSO)  | Enterprise Applications |
 | Infraestructura | [Lab 11 – VNet & Subnets](https://github.com/zapata-antonio/Azure-Lab-11-VNet-Subnets) | Diseño de red |
