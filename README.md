@@ -43,7 +43,7 @@ Cada laboratorio está documentado con:
 | Identidad | [Lab 06 – PIM (JIT)](https://github.com/zapata-antonio/Azure-Lab-06-PIM-JIT) | Privilegios Just-In-Time (Eligible/Activate) |
 | Identidad | [Lab 07 – Access Reviews](https://github.com/zapata-antonio/Azure-Lab-07-AccessReviews) | Revisión periódica + auto-remediación |
 | Identidad | [Lab 08 — RBAC: Azure Key Vault (Users & Managed Identity)](https://github.com/zapata-antonio/Azure-Lab-08-RBAC-BillingReader) | Lectura segura de secretos desde portal y App Service |
-| Identidad | [Lab 09 — Conditional Access + Intune (BYOD Compliance)](PON_AQUI_EL_ENLACE_DEL_LAB_09) | Control de acceso BYOD mediante cumplimiento del dispositivo |
+| Identidad | [Lab 09 — Conditional Access + Intune (BYOD Compliance)](Lab09-conditional-access-intune-byod-noncompliant) | Control de acceso BYOD mediante cumplimiento del dispositivo |
 | Identidad | [Lab 10 – Administrative Units](https://github.com/zapata-antonio/Azure-Lab-09-AdministrativeUnits) | Delegación regional sin visibilidad global |
 | Identidad | [Lab 11 – Enterprise Applications (SSO)](https://github.com/zapata-antonio/Azure-Lab-10-EnterpriseApps-SSO) | Enterprise Applications |
 | Infraestructura | [Lab 12 – VNet & Subnets](https://github.com/zapata-antonio/Azure-Lab-11-VNet-Subnets) | Diseño de red |
