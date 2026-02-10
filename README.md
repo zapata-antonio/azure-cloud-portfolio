@@ -46,7 +46,7 @@ Cada laboratorio está documentado con:
 | Identidad | [Lab 09 — Conditional Access + Intune (BYOD Compliance)](https://github.com/zapata-antonio/Lab09-conditional-access-intune-byod-noncompliant) | Control de acceso BYOD mediante cumplimiento del dispositivo |
 | Identidad | [Lab 10 – Enterprise Applications (SSO)](https://github.com/zapata-antonio/Azure-Lab-10-EnterpriseApps-SSO) | Enterprise Applications |Administrative Units](https://github.com/zapata-antonio/Azure-Lab-09-AdministrativeUnits) | Delegación regional sin visibilidad global |
 | Identidad | [Lab 11 – Administrative Units](https://github.com/zapata-antonio/Azure-Lab-11-AdministrativeUnits) | Delegación regional sin visibilidad global |
-| Infraestructura | [Lab 12 – VNet & Subnets](https://github.com/zapata-antonio/Azure-Lab-11-VNet-Subnets) | Diseño de red |
+| Infraestructura | [Lab 12 – VNet & Subnets](https://github.com/zapata-antonio/Azure-Lab-12-VNet-Subnets) | Diseño de red |
 | Infraestructura | [Lab 13 – NSG](https://github.com/zapata-antonio/Lab-13-Estructuracion-de-Redes-Virtuales-VNet-) | Control de tráfico (seguridad de red) |
 | Infraestructura | [Lab 14 – Bastion](https://github.com/zapata-antonio/Azure-Lab-13-Bastion) | Acceso seguro sin IP pública |
 | Infraestructura | [Lab 15 – Peering](https://github.com/zapata-antonio/Azure-Lab-14-VNet-Peering) | Redes entre regiones / VNets |
