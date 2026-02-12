@@ -49,7 +49,7 @@ Cada laboratorio está documentado con:
 | Infraestructura | [Lab 12 – VNet & Subnets](https://github.com/zapata-antonio/Azure-Lab-12-VNet-Subnets) | Diseño de red |
 | Infraestructura | [Lab 13 – NSG](https://github.com/zapata-antonio/Azure-Lab-13-NSG-Web) | Control de tráfico (seguridad de red) |
 | Infraestructura | [Lab 14 – Bastion](https://github.com/zapata-antonio/-Lab-14---Administraci-n-segura-de-m-quinas-virtuales-con-Azure-Bastion) | Acceso seguro sin IP pública |
-| Infraestructura | [Lab 15 – Peering](https://github.com/zapata-antonio/Azure-Lab-15-VNetPeering) | Redes entre regiones / VNets |
+| Infraestructura | [Lab 15 – Peering](https://github.com/zapata-antonio/Lab-15-Interconexi-n-de-Redes-con-VNet-Peering) | Redes entre regiones / VNets |
 | Infraestructura | [Lab 16 – Private Endpoints](https://github.com/zapata-antonio/Azure-Lab-15-Private-Endpoints) | Acceso privado a servicios (Storage, etc.) |
 | Infraestructura | [Lab 17 – VM & Disks](https://github.com/zapata-antonio/Azure-Lab-16-VM-Disks) | Compute + discos + rendimiento |
 | Infraestructura | [Lab 18 – Backup](https://github.com/zapata-antonio/Azure-Lab-17-Backup) | Continuidad de negocio |
