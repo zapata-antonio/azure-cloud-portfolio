@@ -72,7 +72,7 @@ Administrador Cloud especializado en:
 - Identidad y Acceso (SC-300)
 - Seguridad y Gobierno Cloud
 
-Este portafolio refleja **mi forma real de trabajar en entornos empresariales**.
+Este portfolio refleja **mi forma real de trabajar en entornos empresariales**.
 
 
 ## 📫 Contacto
