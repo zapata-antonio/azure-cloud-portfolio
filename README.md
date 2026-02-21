@@ -52,7 +52,7 @@ Cada laboratorio está documentado con:
 | Infraestructura | [Lab 15 – Peering](https://github.com/zapata-antonio/Lab-15-Interconexi-n-de-Redes-con-VNet-Peering) | Redes entre regiones / VNets |
 | Infraestructura | [Lab 16 – Private Endpoints](https://github.com/zapata-antonio/Azure-Lab-16-PrivateEndpoints-Storage) | Acceso privado a servicios (Storage, etc.) |
 | Infraestructura | [Lab 17 – VM & Disks](https://github.com/zapata-antonio/Azure-Lab-17-VM-DataDisks) | Compute + discos + rendimiento |
-| Infraestructura | [Lab 18 – Backup](https://github.com/zapata-antonio/Azure-Lab-17-Backup) | Continuidad de negocio |
+| Infraestructura | [Lab 18 – Backup](https://github.com/zapata-antonio/Azure-Lab-18-AzureBackup) | Continuidad de negocio |
 | Operaciones | [Lab 20 – Budgets](https://github.com/zapata-antonio/Azure-Lab-20-Budgets) | Control de costes |
 | Operaciones | [Lab 21 – Monitor](https://github.com/zapata-antonio/Azure-Lab-21-Monitor-Alerts) | Métricas, logs y alertas |
 | Gobierno | [Lab 22 – Policy](https://github.com/zapata-antonio/Azure-Lab-22-Azure-Policy) | Cumplimiento y guardrails |
