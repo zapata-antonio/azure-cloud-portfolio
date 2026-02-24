@@ -54,7 +54,7 @@ Cada laboratorio está documentado con:
 | Infraestructura | [Lab 17 – VM & Disks](https://github.com/zapata-antonio/Azure-Lab-17-VM-DataDisks) | Compute + discos + rendimiento |
 | Infraestructura | [Lab 18 – Backup](https://github.com/zapata-antonio/Azure-Lab-18-AzureBackup) | Continuidad de negocio |
 | Infraestructura | [Lab-19-Despliegue-de-Aplicaciones-PaaS](https://github.com/zapata-antonio/Lab-19-Despliegue-de-Aplicaciones-PaaS) | Despliegue de Aplicaciones PaaS |
-| Infraestructura | [Lab-20-Despliegue-de-Aplicaciones-PaaS](https://github.com/zapata-antonio/Azure-Lab-20-Firmas-de-Acceso-Compartido-SAS-) | Shared Access Signature (SAS) – Acceso temporal a un blob |
+| Infraestructura | [Lab-20-Firmas-de-Acceso-Compartido-SAS](https://github.com/zapata-antonio/Azure-Lab-20-Firmas-de-Acceso-Compartido-SAS-) | Shared Access Signature (SAS) – Acceso temporal a un blob |
 | Operaciones | [Lab 20 – Budgets](https://github.com/zapata-antonio/Azure-Lab-20-Budgets) | Control de costes |
 | Operaciones | [Lab 21 – Monitor](https://github.com/zapata-antonio/Azure-Lab-21-Monitor-Alerts) | Métricas, logs y alertas |
 | Gobierno | [Lab 22 – Policy](https://github.com/zapata-antonio/Azure-Lab-22-Azure-Policy) | Cumplimiento y guardrails |
