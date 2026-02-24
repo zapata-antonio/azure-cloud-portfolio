@@ -57,7 +57,7 @@ Cada laboratorio está documentado con:
 | Seguridad | [Lab-20-Firmas-de-Acceso-Compartido-SAS](https://github.com/zapata-antonio/Azure-Lab-20-Firmas-de-Acceso-Compartido-SAS-) | Shared Access Signature (SAS) – Acceso temporal a un blob |
 | Seguridad | [Lab 21 – Key Vault](https://github.com/zapata-antonio/Azure-Lab-21-Azure-Key-Vault---Proteccion-de-Secretos) | Gestión de secretos y claves |
 | Operaciones | [Lab 22 – Budgets + Runbook](https://github.com/zapata-antonio/Azure-Lab-22-Budgets) | Budgets + Runbook (Stop VM por umbral) |
-| Operaciones | [Lab 23 – Monitor](https://github.com/zapata-antonio/Lab 23 – Azure Monitor: Alerta de CPU en máquina virtual) | Métricas, logs y alertas |
+| Operaciones | [Lab 23 – Monitor](https://github.com/Lab-23-Azure-Monitor-Alerta-de-CPU-en-m-quina-virtual) | Métricas, logs y alertas |
 | Gobierno | [Lab 22 – Policy](https://github.com/zapata-antonio/Azure-Lab-22-Azure-Policy) | Cumplimiento y guardrails |
 | Seguridad | [Lab 24 – Key Vault](https://github.com/zapata-antonio/Azure-Lab-24-KeyVault) | Gestión de secretos y claves |
 | Datos | [Lab 25 – Power BI RLS](https://github.com/zapata-antonio/Azure-Lab-25-PowerBI-RLS) | Gobierno de datos (Row-Level Security) |
