@@ -82,4 +82,4 @@ Este portfolio refleja **mi forma real de trabajar en entornos empresariales**.
 
 LinkedIn:www.linkedin.com/in/antonio-zapata-cloud
 
-Email: zapataantonio@gmail.com
+Email: zapatantonio@gmail.com
