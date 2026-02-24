@@ -56,7 +56,7 @@ Cada laboratorio está documentado con:
 | Infraestructura | [Lab-19-Despliegue-de-Aplicaciones-PaaS](https://github.com/zapata-antonio/Lab-19-Despliegue-de-Aplicaciones-PaaS) | Despliegue de Aplicaciones PaaS |
 | Seguridad | [Lab-20-Firmas-de-Acceso-Compartido-SAS](https://github.com/zapata-antonio/Azure-Lab-20-Firmas-de-Acceso-Compartido-SAS-) | Shared Access Signature (SAS) – Acceso temporal a un blob |
 | Seguridad | [Lab 21 – Key Vault](https://github.com/zapata-antonio/Azure-Lab-21-Azure-Key-Vault---Proteccion-de-Secretos) | Gestión de secretos y claves |
-| Operaciones | [Lab 20 – Budgets](https://github.com/zapata-antonio/Azure-Lab-20-Budgets) | Control de costes |
+| Operaciones | [Lab 22 – Budgets](https://github.com/zapata-antonio/Azure-Lab-22-Budgets) | Control de costes |
 | Operaciones | [Lab 21 – Monitor](https://github.com/zapata-antonio/Azure-Lab-21-Monitor-Alerts) | Métricas, logs y alertas |
 | Gobierno | [Lab 22 – Policy](https://github.com/zapata-antonio/Azure-Lab-22-Azure-Policy) | Cumplimiento y guardrails |
 | Seguridad | [Lab 24 – Key Vault](https://github.com/zapata-antonio/Azure-Lab-24-KeyVault) | Gestión de secretos y claves |
