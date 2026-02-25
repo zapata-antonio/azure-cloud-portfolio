@@ -60,8 +60,7 @@ Cada laboratorio está documentado con:
 | Operaciones | [Lab 23 – Monitor](https://github.com/zapata-antonio/Lab-23-Azure-Monitor-Alerta-de-CPU-en-m-quina-virtual) | Métricas, logs y alertas |
 | Gobierno | [Lab 24 – Policy](https://github.com/zapata-antonio/Lab-24-Azure-Policy---Restricci-n-de-Regiones) | Cumplimiento y guardrails |
 | Seguridad | [Lab 25 – Log Analitics - KQL](https://github.com/zapata-antonio/Lab-25-Log-Analytics-y-consultas-KQL) | Log Analitics - KQL |
-| Datos | [Lab 26 – Power BI RLS](https://github.com/zapata-antonio/Azure-Lab-25-PowerBI-RLS) | Gobierno de datos (Row-Level Security) |
-| Troubleshooting | [Lab 27–35 – Incidencias reales](https://github.com/zapata-antonio/Azure-Lab-26-35-Troubleshooting) | Casos prácticos de diagnóstico |
+| Troubleshooting | [Lab 26–35 – Incidencias reales](https://github.com/zapata-antonio/Azure-Lab-26-35-Troubleshooting) | Casos prácticos de diagnóstico |
 
 
 *(Los enlaces se irán activando a medida que se completen los labs)*
