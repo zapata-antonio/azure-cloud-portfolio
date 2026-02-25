@@ -63,7 +63,6 @@ Cada laboratorio está documentado con:
 | Troubleshooting | [Lab 26–35 – Incidencias reales](https://github.com/zapata-antonio/Azure-Lab-26-35-Troubleshooting) | Casos prácticos de diagnóstico |
 
 
-*(Los enlaces se irán activando a medida que se completen los labs)*
 
 ---
 
