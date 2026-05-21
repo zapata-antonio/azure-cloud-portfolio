@@ -8,6 +8,7 @@ El entorno está desplegado en una suscripción real llamada **Zapata-Cloud**, c
 - Seguridad (SC-300)
 - Infraestructura (AZ-104)
 - Gobernanza y operaciones
+- Automatización de infraestructura con Terraform
 
 ---
 
@@ -72,6 +73,7 @@ Administrador Cloud especializado en:
 - Azure (AZ-104)
 - Identidad y Acceso (SC-300)
 - Seguridad y Gobierno Cloud
+- Automatización de infraestructura con Terraform
 
 Este portfolio refleja **mi forma real de trabajar en entornos empresariales**.
 
