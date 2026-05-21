@@ -64,7 +64,12 @@ Cada laboratorio está documentado con:
 | Troubleshooting | [Lab 26–34 – Incidencias reales](https://github.com/zapata-antonio/Incidencias) | Casos prácticos de diagnóstico |
 
 
+## ⚙️ Terraform / Infraestructura como código
 
+| Fase | Laboratorio | Descripción |
+|---|---|---|
+| Terraform | Lab TF-01 – VNet + Subnet + NSG + VM | Despliegue básico de red y máquina virtual con Terraform |
+| Terraform | Lab TF-02 – Storage + Key Vault + Private Endpoint | Despliegue seguro de Storage y Key Vault con acceso privado |
 ---
 
 ## 👨‍💻 Sobre mí
