@@ -68,7 +68,7 @@ Cada laboratorio está documentado con:
 
 | Fase | Laboratorio | Descripción |
 |---|---|---|
-| Terraform | [Lab TF-01 – VNet + Subnet + NSG + VM](https://github.com/zapata-antonio/Lab-TF01-Despliegue-de-infraestructura-basica-con-Terraform-Microsoft-Azure/new/main) — Despliegue de infraestructura básica con Terraform-Microsoft Azure  | Despliegue básico de red y máquina virtual con Terraform |
+| Terraform | [Lab TF-01 – VNet + Subnet + NSG + VM](https://github.com/zapata-antonio/Lab-TF01-Despliegue-de-infraestructura-b-sica-con-Terraform-Microsoft-Azure) — Despliegue de infraestructura básica con Terraform-Microsoft Azure  | Despliegue básico de red y máquina virtual con Terraform |
 | Terraform | Lab TF-02 – Storage + Key Vault + Private Endpoint | Despliegue seguro de Storage y Key Vault con acceso privado |
 ---
 
